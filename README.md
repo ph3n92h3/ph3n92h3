@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ph3n92h3
 - 👀 I’m interested in physics and programing.
-- 🌱 I’m currently learning quantum mechanics and Julia.
+- 🌱 I’m currently learning GR.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ph3n92h3@gmail.com
 
