@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ph3n92h3
 - 👀 I’m interested in physics and programing.
-- 🌱 I’m currently learning GR.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning GR & modified theory of gravity.
+- 💞️ I’m looking to collaborate on modified gravity.
 - 📫 How to reach me: ph3n92h3@gmail.com
 
 <!---
